@@ -2,7 +2,7 @@
 
 
 
-roject Name: ChallengeSimpleDarts
+project Name: ChallengeSimpleDarts
 
 (1) First create a re-usable library called Darts that could be used for
 other dart games in the future.  It will contain a single class named Dart.  When
